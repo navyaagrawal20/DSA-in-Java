@@ -1,6 +1,3 @@
-Sure! Below is the **formatted `README.md`** version ready to paste into GitHub 👇
-
----
 
 ```markdown
 # 🧮 Heap Data Structure in Java
@@ -115,28 +112,11 @@ java Heap
 
 ---
 
-## 🚀 Future Enhancements
 
-* ✅ Min-Heap mode option
-* ✅ Interactive input mode
-* ✅ Visualization of heap tree
-* ✅ In-place heap sort version
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-Feel free to use, modify, and contribute!
-
----
 
 ### ⭐ If you found this helpful, give this repo a star!
 
 ```
 
----
 
-### Want a badge, diagram or GIF animation for heap visuals?  
-Tell me — I can generate them ✨
-```
