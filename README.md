@@ -158,5 +158,4 @@ Every topic includes:
 
 ---
 
-## 🧩 Directory Structure
 
